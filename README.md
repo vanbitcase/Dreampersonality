@@ -2,7 +2,7 @@
 
 This is a fun project using the Stable Diffusion pipeline and IP-Adapter model to create your dream personality. It demonstrates how to generate face embeddings from an image and use these embeddings to guide the synthesis of new images using Stable Diffusion. The process leverages multiple tools and libraries, including `diffusers`, `ip_adapter`, `insightface`, and `onnxruntime`.
 # Demo(Click to View!)
-[![Dream Personality](DreamPersonalityImage.png)](https://drive.google.com/file/d/1icdel9Mgh6jZhZ8pYfcOt1DXgPzzIOgf/view)
+[![Dream Personality](Dram.png)](https://drive.google.com/file/d/1icdel9Mgh6jZhZ8pYfcOt1DXgPzzIOgf/view)
 
 # Example
 ![image](https://drive.google.com/uc?export=view&id=1Trmc9sj8BU-kxDwzaZQTlnIFGWpjfqgo)
